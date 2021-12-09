@@ -1,9 +1,9 @@
 # Linux Device Driver for DHT11 Sensor
 
-##Description
+## Description
 In this project, we are providing Device Driver for DHT11 sensor which will read temperature and humidity data.
 
-##Steps for Compilation
+## Steps for Compilation
 1. First we need to set up the Kernel source for which following commands are used in RPI Desktop terminal:
 > #The usual update routine
 > apt-get update -y
