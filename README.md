@@ -17,7 +17,7 @@ sudo apt-get dist-upgrade
 sudo apt-get install linux-headers-$(uname -r)
 ```
 2. Navigate to directory with project files.
-3. Obtain kernel object file using command
+3. Compile all files using command
 ```
 make all
 ```
